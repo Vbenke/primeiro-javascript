@@ -1,4 +1,4 @@
-Primeiro Projeto em Javascript
-Jogo do número secreto
+<h1>Primeiro Projeto em Javascript.</h1><br>
+<h2>Jogo do número secreto</h2>
 
-Encontrar o numero secreto atráves de chute e dicas.
+<p>Encontrar o numero secreto atráves de chute e dicas.</p>
